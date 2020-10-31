@@ -27,13 +27,27 @@ It is imperative you read this entire document before beginning this project.
 * eSUN PLA+ is the _required_ filament.
 * Print HOT and SLOW for maximum bonding and strength. (50 mm/s and 230 C is recommended.)
 * It is strongly recommended that your x-axis, y-axis, and z-axis stepper motors are calibrated 100%.
+* Ironing is recommended.
+
+## FAQ
+
+*Q:* Why does my fire control group pins or fire-select seem not to fit? They are a bit wider than the reciever.
+*A:* OEM Smith & Wesson M&P 15-22 pins are much longer, as is the fire safety select. You can use it, but it will protrude one side or another ever so slightly. I left the lower mil-spec so that you can customize it with other mil-spec accessories.
 
 ## Changelog
 
+* Private Beta v0.3
+> - (SW1522) Revised magazine fitment
+> - (All) Omitted non-functional front takedown retention
+> - (Documentation) Inserted FAQ
+> - (SC1522) Revised grip fitment
+> - (SC1522) Flared grip screw
+
 * Private Beta v0.2
-> - Fixed missing bolt catch nub
-> - Revised magazine fitment
-> - Revised grip fitment
+> - (SW1522) Fixed missing bolt catch nub
+> - (SW1522) Revised magazine fitment
+> - (SW1522) Revised grip fitment
+> - (SW1522) Flared grip screw
 
 * Private Beta v0.1
 > - Initial beta
