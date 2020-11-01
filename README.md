@@ -11,8 +11,8 @@ The SW1522 is an AR-15 lower, derived off the DS1913 v1.0 baseline (which is bas
 Features to it include a 1913 rail on the rear for mounting compact braces or stocks, bolt-catch delete for added reinforcement, and integrated bolt-press-forward to increase reliability. The lower is refined specifically for 3D printing, accounting for shrinkage and tolerances (meaning your printer must be 100% calibrated), along with modifications needed to make the lower functional, as the original was published as untested. 
 
 This model has two variants:
-* SW1522 - Made for use with _only_ S&W 15-22 magazines. Requires the S&W 15-22 specific bolt-hold open.
-* SC1522 - Made for compatiblity with CMMG mags, Vinh's AR-15 22 LR mags, and S&W 15-22 magazines, but _without_ last-round-bolt-hold-open.
+* **SW1522** - Made for use with _only_ S&W 15-22 magazines. Requires the S&W 15-22 specific bolt-hold open.
+* **SC1522** - Made for compatiblity with CMMG mags, Vinh's AR-15 22 LR mags, and S&W 15-22 magazines, but _without_ last-round-bolt-hold-open.
 
 ## Materials Required
 1. **S&W M&P 15-22 Upper Reciever** - Proprietary S&W M&P 15-22 upper reciever. This lower reciever is *NOT* compatible with mil-spec AR-15 upper recievers.
@@ -32,6 +32,7 @@ It is imperative you read this entire document before beginning this project.
 ## FAQ
 
 *Q:* Why does my fire control group pins or fire-select seem not to fit? They are a bit wider than the reciever.
+
 *A:* OEM Smith & Wesson M&P 15-22 pins are much longer, as is the fire safety select. You can use it, but it will protrude one side or another ever so slightly. I left the lower mil-spec so that you can customize it with other mil-spec accessories.
 
 ## Changelog
