@@ -54,3 +54,7 @@ It is imperative you read this entire document before beginning this project.
 
 ## License
 > MIT License
+
+##### Vinh's Stipulations in addition to MIT License
+* I require you do not charge others for access, nor rehost outside of personal, private archives. This introduces the possibility of stale files and out-of-date shares, which may be dangerous of a critical fix/patch distribution is required.
+* Official sources shall only include Vinh's GitHub (@nguyenkvvn), and Deterrence Dispensed's LBRY archives. (Hot linking is perfectly okay!)
