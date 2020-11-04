@@ -3,7 +3,7 @@ by nguyenkvvn
 
 A fork of the SW1522 v1.0 baseline to support S&amp;W M&amp;P 15-22 kits
 
-Private Beta v0.2
+Public Release v1.0
 
 ## Description
 The SW1522 is an AR-15 lower, derived off the DS1913 v1.0 baseline (which is based off the Disruptive Solutions AR-15 lower from FOSSCAD), specifically made to support Smith & Wesson M&P 15-22 kits. 
@@ -36,6 +36,9 @@ It is imperative you read this entire document before beginning this project.
 *A:* OEM Smith & Wesson M&P 15-22 pins are much longer, as is the fire safety select. You can use it, but it will protrude one side or another ever so slightly. I left the lower mil-spec so that you can customize it with other mil-spec accessories.
 
 ## Changelog
+
+* Public Release v1.0
+> - STEP files included.
 
 * Private Beta v0.3
 > - (SW1522) Revised magazine fitment
