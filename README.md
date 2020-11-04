@@ -12,7 +12,7 @@ Features to it include a 1913 rail on the rear for mounting compact braces or st
 
 This model has two variants:
 * **SW1522** - Made for use with _only_ S&W 15-22 magazines. Requires the S&W 15-22 specific bolt-hold open.
-* **SC1522** - Made for compatiblity with CMMG mags, Vinh's AR-15 22 LR mags, and S&W 15-22 magazines, but _without_ last-round-bolt-hold-open.
+* **CM1522** - Made for compatiblity with CMMG mags, Vinh's AR-15 22 LR mags, and S&W 15-22 magazines, but _without_ last-round-bolt-hold-open.
 
 ## Materials Required
 1. **S&W M&P 15-22 Upper Reciever** - Proprietary S&W M&P 15-22 upper reciever. This lower reciever is *NOT* compatible with mil-spec AR-15 upper recievers.
@@ -39,13 +39,14 @@ It is imperative you read this entire document before beginning this project.
 
 * Public Release v1.0
 > - STEP files included.
+> - Renamed confusing SC1522 to CM1522.
 
 * Private Beta v0.3
 > - (SW1522) Revised magazine fitment
 > - (All) Omitted non-functional front takedown retention
 > - (Documentation) Inserted FAQ
-> - (SC1522) Revised grip fitment
-> - (SC1522) Flared grip screw
+> - (CM1522) Revised grip fitment
+> - (CM1522) Flared grip screw
 
 * Private Beta v0.2
 > - (SW1522) Fixed missing bolt catch nub
