@@ -3,7 +3,7 @@ by nguyenkvvn
 
 A fork of the DS1913 v1.0 baseline to support S&amp;W M&amp;P 15-22 kits
 
-Public Release v1.1
+Public Release v2.0
 
 ## Description
 The SW1522 is an AR-15 lower, derived off the DS1913 v1.0 baseline (which is based off the Disruptive Solutions AR-15 lower from FOSSCAD), specifically made to support Smith & Wesson M&P 15-22 kits. 
