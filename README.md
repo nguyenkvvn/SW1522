@@ -37,6 +37,10 @@ It is imperative you read this entire document before beginning this project.
 
 ## Changelog
 
+* Public Release v2.0
+> - Assembly PDF included
+> - Promoted v1.1 to v2.0
+
 * Public Release v1.1
 > - Refined fitment for upper and lower
 > - Refined magazine fitment
@@ -63,8 +67,4 @@ It is imperative you read this entire document before beginning this project.
 > - Initial beta
 
 ## License
-> MIT License
-
-##### Vinh's Stipulations in addition to MIT License
-* I require you do not charge others for access, nor rehost outside of personal, private archives. This introduces the possibility of stale files and out-of-date shares, which may be dangerous of a critical fix/patch distribution is required.
-* Official sources shall only include Vinh's GitHub (@nguyenkvvn), and Deterrence Dispensed's LBRY archives. (Hot linking is perfectly okay!)
+Revert to no license specified as of 12/16/2022. No warranty expressed or implied. Note this does not give you license to commercialize or restribute this release.
